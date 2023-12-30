@@ -1,7 +1,10 @@
 {
   "name": "react-vite-template",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
+  "homepage": "https://dolphin-vr.github.io/react-vite-template/",
+  "author": "dolphin-vr",
+  "license": "ISC",
   "type": "module",
   "scripts": {
     "dev": "vite",
